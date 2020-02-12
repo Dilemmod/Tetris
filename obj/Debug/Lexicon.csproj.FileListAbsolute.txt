@@ -1,0 +1,12 @@
+D:\Reprosit\Lexicon\Lexicon\bin\Debug\Lexicon.exe.config
+D:\Reprosit\Lexicon\Lexicon\bin\Debug\Lexicon.exe
+D:\Reprosit\Lexicon\Lexicon\bin\Debug\Lexicon.pdb
+D:\Reprosit\Lexicon\Lexicon\obj\Debug\Lexicon.csprojAssemblyReference.cache
+D:\Reprosit\Lexicon\Lexicon\obj\Debug\Lexicon.exe
+D:\Reprosit\Lexicon\Lexicon\obj\Debug\Lexicon.pdb
+D:\Reprosit\Tetris\Lexicon\bin\Debug\Lexicon.exe.config
+D:\Reprosit\Tetris\Lexicon\bin\Debug\Lexicon.exe
+D:\Reprosit\Tetris\Lexicon\bin\Debug\Lexicon.pdb
+D:\Reprosit\Tetris\Lexicon\obj\Debug\Lexicon.csprojAssemblyReference.cache
+D:\Reprosit\Tetris\Lexicon\obj\Debug\Lexicon.exe
+D:\Reprosit\Tetris\Lexicon\obj\Debug\Lexicon.pdb

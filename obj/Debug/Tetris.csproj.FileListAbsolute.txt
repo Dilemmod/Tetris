@@ -1,0 +1,6 @@
+D:\Reprosit\Tetris\Tetris\bin\Debug\Lexicon.exe.config
+D:\Reprosit\Tetris\Tetris\bin\Debug\Lexicon.exe
+D:\Reprosit\Tetris\Tetris\bin\Debug\Lexicon.pdb
+D:\Reprosit\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Reprosit\Tetris\Tetris\obj\Debug\Lexicon.exe
+D:\Reprosit\Tetris\Tetris\obj\Debug\Lexicon.pdb
